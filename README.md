@@ -12,9 +12,9 @@ We are looking to develop an app to support school divisions in implementing the
 
 ## Project Team
 - *Rebecca Dovi*  - *CodeVA* - Mentor and sponsor
-- *n/a* - *n/a* - Technical Advisor
 - *John Leonard* - *Department* - Faculty Advisor
 - *Jaafar Maksoud* - *major* - Student Team Member
 - *Ali Kradi* - *major* - Student Team Member
 - *Komil Chaghtai* - *major* - Student Team Member
 - *Isam Makki* - *major* - Student Team Member
+- *n/a* - *n/a* - Technical Advisor
