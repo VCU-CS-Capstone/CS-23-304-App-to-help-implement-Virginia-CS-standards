@@ -12,9 +12,9 @@ We are looking to develop an app to support school divisions in implementing the
 
 ## Project Team
 - *Rebecca Dovi*  - *CodeVA* - Mentor and sponsor
-- *John Leonard* - *Department* - Faculty Advisor
-- *Jaafar Maksoud* - *major* - Student Team Member
-- *Ali Kradi* - *major* - Student Team Member
-- *Komil Chaghtai* - *major* - Student Team Member
-- *Isam Makkie* - *major* - Student Team Member
+- *John Leonard* - *VCU College of Engineering* - Faculty Advisor
+- *Jaafar Maksoud* - *Computer Science* - Student Team Member
+- *Ali Kradi* - *Computer Science* - Student Team Member
+- *Komil Chaghtai* - *Computer Science* - Student Team Member
+- *Isam Makki* - *Computer Science* - Student Team Member
 - *n/a* - *n/a* - Technical Advisor
