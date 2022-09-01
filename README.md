@@ -16,5 +16,5 @@ We are looking to develop an app to support school divisions in implementing the
 - *Jaafar Maksoud* - *Computer Science* - Student Team Member
 - *Ali Kradi* - *Computer Science* - Student Team Member
 - *Komil Chaghtai* - *Computer Science* - Student Team Member
-- *Isam Makki* - *Computer Science* - Student Team Member
+- *Isam Makkie* - *Computer Science* - Student Team Member
 - *n/a* - *n/a* - Technical Advisor
