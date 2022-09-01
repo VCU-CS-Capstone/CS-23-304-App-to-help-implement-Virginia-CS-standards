@@ -16,8 +16,8 @@ a better understanding of the problems you encountered during the developmemnt o
 ## Project Team
 - *Mentor's Name*  - *Company Affliation* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *John Leonard* - *Department* - Faculty Advisor
+- *Jaafar Maksoud* - *major* - Student Team Member
+- *Ali Kradi* - *major* - Student Team Member
+- *Komil Chaghtai* - *major* - Student Team Member
+- *Isam Makki* - *major* - Student Team Member
