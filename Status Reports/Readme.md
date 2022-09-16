@@ -11,7 +11,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 |---|---|---|---|
 | Project Plan | Overall week by week plan of milestones | | |
 | Week 1 Status Report | | We met with the sponsor and talked about what the project will be about.We also scheduled another meeting for Friday, the 23rd because the sponsor couldn’t meet this week. | No meeting for next week and we don’t have any milestones set yet so we can’t do much work.|
-| Week 2 Status Report | | | |
+| Week 2 Status Report | |CodeVA unavailable for meeting this week, they are out of town. |We will be meeting to create entity relationships for our application. |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
