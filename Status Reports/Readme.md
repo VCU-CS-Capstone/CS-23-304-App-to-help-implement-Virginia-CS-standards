@@ -20,12 +20,12 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 8 Status Report |Set up meeting with CodeVA to test out our figma model, hash out details of testing and timeline of results/feedback. |Final touches on figma before presentation | |
 | Week 9 Status Report |Adapt figma to reflect feedback and results from testing. What services are cruicial for us to purchase?| | |
 | Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
+| Week 11 Status Report |Application design meeting with mentor | | |
 | Week 12 Status Report | | | |
-| Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
-| Week 16 Status Report | | | |
+| Week 13 Status Report |Present figma with mentor | | |
+| Week 14 Status Report |Present figma to CodeVA again | | |
+| Week 15 Status Report |Present figma to our peers | | |
+| Week 16 Status Report |Collection of data for start of application implementation. | | |
 
 ## 2nd Semester
 
