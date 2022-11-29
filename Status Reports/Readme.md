@@ -19,8 +19,8 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 7 Status Report |Research of different UI services to aid UI, get random feedback from people about general layout accessibility. |Bulk effort to complete figma accurately |trying to incorporate all design wishes while staying user friendly
 | Week 8 Status Report |Set up meeting with CodeVA to test out our figma model, hash out details of testing and timeline of results/feedback. |Final touches on figma before presentation | |
 | Week 9 Status Report |Adapt figma to reflect feedback and results from testing. What services are cruicial for us to purchase?| | |
-| Week 10 Status Report |figma layout previous to mentor meeting | | | design aspects were the hardest to decide
-| Week 11 Status Report |Application design meeting with mentor | | |
+| Week 10 Status Report |figma layout previous to mentor meeting | |application layout decided | design aspects were the hardest to decide
+| Week 11 Status Report |Application design meeting with mentor |clear idea of figma and implementation | |
 | Week 12 Status Report |figma | | |
 | Week 13 Status Report |Present figma with mentor | | |
 | Week 14 Status Report |Present figma to CodeVA again | | |
