@@ -17,14 +17,14 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 5 Status Report |Infomation gathered to start our Figma representation |Meeting by the end of October to do testing ||
 | Week 6 Status Report |CodeVA unavailable for meeting this week, they are out of town. No plan to meet until Figma is complete |Team layout of figma/brainstorm UI ideas | |
 | Week 7 Status Report |Research of different UI services to aid UI, get random feedback from people about general layout accessibility. |Bulk effort to complete figma accurately |trying to incorporate all design wishes while staying user friendly
-| Week 8 Status Report |Set up meeting with CodeVA to test out our figma model, hash out details of testing and timeline of results/feedback. |Final touches on figma before presentation | |
+| Week 8 Status Report |Set up meeting with CodeVA to test out our figma model, hash out details of testing and timeline of results/feedback. |Final touches on figma before presentation | | 
 | Week 9 Status Report |Adapt figma to reflect feedback and results from testing. What services are cruicial for us to purchase?| | |
 | Week 10 Status Report |figma layout previous to mentor meeting | |application layout decided | design aspects were the hardest to decide
-| Week 11 Status Report |Application design meeting with mentor |clear idea of figma and implementation | |
-| Week 12 Status Report |figma | | |
-| Week 13 Status Report |Present figma with mentor | | |
-| Week 14 Status Report |Present figma to CodeVA again | | |
-| Week 15 Status Report |Present figma to our peers | | |
+| Week 11 Status Report |Application design meeting with mentor |clear idea of figma and implementation | | scheduling difficulties with sponsor
+| Week 12 Status Report |figma | to be done during capstone meeting for all team members |figma done! |design issues presisted, as no team member is picky
+| Week 13 Status Report |Present figma with mentor |schedule meeting to present figma, bring final questions to mentor | reinvigorated excitement for our project! | we were playing with REACT for our app, and have changed to next so a lot of work was misplaced
+| Week 14 Status Report |Present figma to CodeVA again |present prototype to different friends to test user friendly-ness |figma completed |no design preferences from Code VA, up to us
+| Week 15 Status Report |Present figma to our peers |schedule meeting to present prototype to sponsor |solid foundation of prototype | scheduling difficulties
 | Week 16 Status Report |Collection of data for start of application implementation. | | |
 
 ## 2nd Semester
