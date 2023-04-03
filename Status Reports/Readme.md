@@ -33,7 +33,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 |---|---|---|---|
 | Week 1 Status Report | | | |
 | Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
+| Week 3 Status Report 99|99 | o | 9|
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
