@@ -31,19 +31,19 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report 99|99 | o | 9|
-| Week 4 Status Report | | | |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
-| Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
+| Week 1 Status Report |Get on the same page, explain the work each member did over break to the rest of the group| Discuss where to show/store notes| |
+| Week 2 Status Report |Set up meeting with CodeVA, have Leonard join in |Fix python parsing error, learn ethics in class | |
+| Week 3 Status Report |Implement adding a subject| Implemented adding a subject | About us just include a link, may not be necessary|
+| Week 4 Status Report |Implement progress bar |Federal laws and ethics quiz |some design disagreements |
+| Week 5 Status Report |Implement about us redirect button |IT social responsibility |Unable/unnecessary to implement Dictionary |
+| Week 6 Status Report |implement help button |used CodeVA color codes and website for about us | |
+| Week 7 Status Report |Implement result printing |accomplished all our tasks so far! |we need to do this without storing any personal information |
+| Week 8 Status Report |Implement notes section and inputs |continuing to knock out tasks in quick 2 week sprints, a review and then sprint again. |group displays by? |
+| Week 9 Status Report |Meet with CodeVA to touchbase, double check everything |we know exactly how this application will play out once it's deployed. |met with who will maintain our application after we finish it, lots of other things to consider now. |
+| Week 10 Status Report |Prepare for CodeVA meeting, have everything done and questions ready. |shortened sprint to 1 week, then review with higher ups, sprint again |different schedule, need more time to manage all tasks |
+| Week 11 Status Report |Meet with CodeVA (including stapleton) and leonard to approve appropriate documents |Abstract and poster done, apporoved and submitted! |Recieving more requests from sponsor |
+| Week 12 Status Report |work on any exxtra changes that we have time for, CodeVA is happy but CodeVA they disagreed with eachother on ways to go about some things. |map out script for video and take video of app walkthrough in order to voice over | |some changes from CodeVA, that we could've been told in the earlier stages if they had better communicated within their company.
+| Week 13 Status Report |CAPSTONE VIDEO PRESENTATION DUE! |voice over video and edit for presentation |keep presentation within 5-7 minutes! |
+| Week 14 Status Report |CAPSTONE PROJECT DUE |get ready for expo! final touches on all expo material | |
+| Week 15 Status Report | |CAPSTONE EXPO! | |
 | Week 16 Status Report | | | |
