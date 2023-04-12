@@ -45,5 +45,5 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 12 Status Report |work on any exxtra changes that we have time for, CodeVA is happy but CodeVA they disagreed with eachother on ways to go about some things. |map out script for video and take video of app walkthrough in order to voice over | |some changes from CodeVA, that we could've been told in the earlier stages if they had better communicated within their company.
 | Week 13 Status Report |CAPSTONE VIDEO PRESENTATION DUE! |voice over video and edit for presentation |keep presentation within 5-7 minutes! |
 | Week 14 Status Report |CAPSTONE PROJECT DUE |get ready for expo! final touches on all expo material | |
-| Week 15 Status Report | |CAPSTONE EXPO! | |
+| Week 15 Status Report |Practice for expo! |CAPSTONE EXPO! |no issues, we got this! |
 | Week 16 Status Report | | | |
