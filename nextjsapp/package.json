@@ -1,0 +1,44 @@
+{
+  "name": "trying-final",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@headlessui/react": "^1.7.7",
+    "@headlessui/vue": "^1.7.8",
+    "@heroicons/react": "^2.0.13",
+    "@material-tailwind/react": "^1.2.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@mui/x-data-grid": "^5.17.16",
+    "axios": "^1.2.1",
+    "eslint": "8.30.0",
+    "eslint-config-next": "13.0.7",
+    "next": "^13.0.7",
+    "react": "18.2.0",
+    "react-csv": "^2.2.2",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dnd-touch-backend": "^16.0.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-to-print": "^2.14.11",
+    "react-window": "^1.8.8",
+    "serverless-mysql": "^1.5.4",
+    "simplebar-react": "^3.2.0",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
